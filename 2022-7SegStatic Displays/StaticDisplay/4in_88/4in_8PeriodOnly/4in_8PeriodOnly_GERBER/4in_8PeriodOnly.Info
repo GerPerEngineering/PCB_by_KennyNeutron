@@ -1,0 +1,28 @@
+CAM output for current project 4in_8PeriodOnly.T3001
+Output on 23. Jul 2022, 12:46h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 76.811 mm x 137.829 mm
+
+Description of created files as follows:
+
+4in_8PeriodOnly.Top = 16 = Copper top L2   ( *.Top )
+4in_8PeriodOnly.Bot = 2 = Copper bottom L1   ( *.Bot )
+4in_8PeriodOnly.Tool = drill tool list
+4in_8PeriodOnly.Drill = Galvanised drills
+4in_8PeriodOnly.Outline = 23 = PCB outline   ( *.Outline )
+4in_8PeriodOnly.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+4in_8PeriodOnly.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+4in_8PeriodOnly.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+4in_8PeriodOnly.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+4in_8PeriodOnly.Apr = TARGET 3001! aperture list
+4in_8PeriodOnly.Whl = Eagle compatible aperture list
+

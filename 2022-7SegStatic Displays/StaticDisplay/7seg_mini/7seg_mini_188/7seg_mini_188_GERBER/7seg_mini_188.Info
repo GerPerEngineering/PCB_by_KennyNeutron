@@ -1,0 +1,29 @@
+CAM output for current project 7seg_mini_188.T3001
+Output on 23. Jul 2022, 15:40h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 156.21 mm x 100.33 mm
+
+Description of created files as follows:
+
+7seg_mini_188.Top = 16 = Copper top L2   ( *.Top )
+7seg_mini_188.Bot = 2 = Copper bottom L1   ( *.Bot )
+7seg_mini_188.Tool = drill tool list
+7seg_mini_188.Drill = Galvanised drills
+7seg_mini_188.Outline = 23 = PCB outline   ( *.Outline )
+7seg_mini_188.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+7seg_mini_188.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+7seg_mini_188.PosiTop = 21 = Placement print top   ( *.PosiTop )
+7seg_mini_188.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+7seg_mini_188.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+7seg_mini_188.Apr = TARGET 3001! aperture list
+7seg_mini_188.Whl = Eagle compatible aperture list
+

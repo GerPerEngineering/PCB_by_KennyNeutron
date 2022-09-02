@@ -1,0 +1,31 @@
+CAM output for current project MINI GYRO CPU 2022(2).T3001
+Output on 25. Jul 2022, 12:52h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 118.11 mm x 110.49 mm
+
+Description of created files as follows:
+
+MINI GYRO CPU 2022(2).Top = 16 = Copper top L2   ( *.Top )
+MINI GYRO CPU 2022(2).Bot = 2 = Copper bottom L1   ( *.Bot )
+MINI GYRO CPU 2022(2).Tool = drill tool list
+MINI GYRO CPU 2022(2).Drill = Galvanised drills
+MINI GYRO CPU 2022(2).Outline = 23 = PCB outline   ( *.Outline )
+MINI GYRO CPU 2022(2).StopTop = 18 = Solder stop mask top   ( *.StopTop )
+MINI GYRO CPU 2022(2).StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+MINI GYRO CPU 2022(2).PosiTop = 21 = Placement print top   ( *.PosiTop )
+MINI GYRO CPU 2022(2).PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+MINI GYRO CPU 2022(2).PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+MINI GYRO CPU 2022(2).Apr = TARGET 3001! aperture list
+MINI GYRO CPU 2022(2).Whl = Eagle compatible aperture list
+
+
+Caution: Smallest track is thiner than 0.150mm: (0.149at 5.431 | 109.042)

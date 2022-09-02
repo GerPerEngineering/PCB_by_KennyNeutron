@@ -1,0 +1,28 @@
+CAM output for current project 4in_88Dual.T3001
+Output on 23. Jul 2022, 12:47h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 153.288 mm x 137.845 mm
+
+Description of created files as follows:
+
+4in_88Dual.Top = 16 = Copper top L2   ( *.Top )
+4in_88Dual.Bot = 2 = Copper bottom L1   ( *.Bot )
+4in_88Dual.Tool = drill tool list
+4in_88Dual.Drill = Galvanised drills
+4in_88Dual.Outline = 23 = PCB outline   ( *.Outline )
+4in_88Dual.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+4in_88Dual.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+4in_88Dual.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+4in_88Dual.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+4in_88Dual.Apr = TARGET 3001! aperture list
+4in_88Dual.Whl = Eagle compatible aperture list
+

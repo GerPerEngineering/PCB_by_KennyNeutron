@@ -1,0 +1,19 @@
+D010    draw      0.00591
+D011    draw      0.00750
+D012    draw      0.01181
+D013    draw      0.01500
+D014    draw      0.01575
+D015    draw      0.02362
+D016    draw      0.02400
+D017    draw      0.02496
+D018    draw      0.02756
+D019    draw      0.03200
+D020    draw      0.04000
+D021    draw      0.06000
+D022    draw      0.08000
+D023    draw      0.23622
+D024    rectangle 0.04724 x 0.07874
+D025    rectangle 0.05787 x 0.02717
+D026    rectangle 0.07874 x 0.04724
+D027    square    0.08000
+D028    square    0.19685
