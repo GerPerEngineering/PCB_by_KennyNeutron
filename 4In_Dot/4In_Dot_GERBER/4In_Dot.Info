@@ -1,0 +1,27 @@
+CAM output for current project 4In_Dot.T3001
+Output on 02. Sep 2022, 13:28h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 99.959 mm x 92.206 mm
+
+Description of created files as follows:
+
+4In_Dot.Top = 16 = Copper top L2   ( *.Top )
+4In_Dot.Bot = 2 = Copper bottom L1   ( *.Bot )
+4In_Dot.Tool = drill tool list
+4In_Dot.Drill = Galvanised drills
+4In_Dot.Outline = 23 = PCB outline   ( *.Outline )
+4In_Dot.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+4In_Dot.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+4In_Dot.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+4In_Dot.Apr = TARGET 3001! aperture list
+4In_Dot.Whl = Eagle compatible aperture list
+

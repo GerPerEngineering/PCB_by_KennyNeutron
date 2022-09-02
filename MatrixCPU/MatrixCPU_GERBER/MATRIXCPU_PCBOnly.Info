@@ -1,0 +1,29 @@
+CAM output for current project MATRIXCPU_PCBOnly.T3001
+Output on 02. Sep 2022, 12:11h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 86.678 mm x 61.278 mm
+
+Description of created files as follows:
+
+MATRIXCPU_PCBOnly.Top = 16 = Copper top L2   ( *.Top )
+MATRIXCPU_PCBOnly.Bot = 2 = Copper bottom L1   ( *.Bot )
+MATRIXCPU_PCBOnly.Tool = drill tool list
+MATRIXCPU_PCBOnly.Drill = Galvanised drills
+MATRIXCPU_PCBOnly.Outline = 23 = PCB outline   ( *.Outline )
+MATRIXCPU_PCBOnly.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+MATRIXCPU_PCBOnly.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+MATRIXCPU_PCBOnly.PosiTop = 21 = Placement print top   ( *.PosiTop )
+MATRIXCPU_PCBOnly.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+MATRIXCPU_PCBOnly.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+MATRIXCPU_PCBOnly.Apr = TARGET 3001! aperture list
+MATRIXCPU_PCBOnly.Whl = Eagle compatible aperture list
+
