@@ -1,0 +1,31 @@
+CAM output for current project 6In_Splitter_ADDon.T3001
+Output on 15. Oct 2022, 15:39h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 266.764 mm x 193.04 mm
+
+Description of created files as follows:
+
+6In_Splitter_ADDon.Top = 16 = Copper top L2   ( *.Top )
+6In_Splitter_ADDon.Bot = 2 = Copper bottom L1   ( *.Bot )
+6In_Splitter_ADDon.Tool = drill tool list
+6In_Splitter_ADDon.Drill = Galvanised drills
+6In_Splitter_ADDon.Outline = 23 = PCB outline   ( *.Outline )
+6In_Splitter_ADDon.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+6In_Splitter_ADDon.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+6In_Splitter_ADDon.PosiTop = 21 = Placement print top   ( *.PosiTop )
+6In_Splitter_ADDon.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+6In_Splitter_ADDon.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+6In_Splitter_ADDon.Apr = TARGET 3001! aperture list
+6In_Splitter_ADDon.Whl = Eagle compatible aperture list
+
+
+Caution: Smallest track is thiner than 0.150mm: (0.130at 76.882 | 56.082)
