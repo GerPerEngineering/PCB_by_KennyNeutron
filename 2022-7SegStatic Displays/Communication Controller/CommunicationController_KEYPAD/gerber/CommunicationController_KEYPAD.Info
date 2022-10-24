@@ -1,0 +1,29 @@
+CAM output for current project CommunicationController_KEYPAD.T3001
+Output on 24. Oct 2022, 19:28h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 228.918 mm x 139.224 mm
+
+Description of created files as follows:
+
+CommunicationController_KEYPAD.Top = 16 = Copper top L2   ( *.Top )
+CommunicationController_KEYPAD.Bot = 2 = Copper bottom L1   ( *.Bot )
+CommunicationController_KEYPAD.Tool = drill tool list
+CommunicationController_KEYPAD.Drill = Galvanised drills
+CommunicationController_KEYPAD.Outline = 23 = PCB outline   ( *.Outline )
+CommunicationController_KEYPAD.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+CommunicationController_KEYPAD.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+CommunicationController_KEYPAD.PosiTop = 21 = Placement print top   ( *.PosiTop )
+CommunicationController_KEYPAD.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+CommunicationController_KEYPAD.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+CommunicationController_KEYPAD.Apr = TARGET 3001! aperture list
+CommunicationController_KEYPAD.Whl = Eagle compatible aperture list
+
