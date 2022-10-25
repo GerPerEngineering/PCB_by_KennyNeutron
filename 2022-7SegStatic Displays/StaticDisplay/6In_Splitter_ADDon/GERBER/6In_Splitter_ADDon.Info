@@ -1,5 +1,5 @@
 CAM output for current project 6In_Splitter_ADDon.T3001
-Output on 25. Oct 2022, 10:09h
+Output on 25. Oct 2022, 10:20h
 Current project created using TARGET 13.4.0.51 smart
 Output created using PCBout V13.4.0.51
 DELIVERY ADDRESS:
@@ -25,7 +25,4 @@ Description of created files as follows:
 6In_Splitter_ADDon.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
 6In_Splitter_ADDon.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
 6In_Splitter_ADDon.Apr = TARGET 3001! aperture list
-6In_Splitter_ADDon.Whl = Eagle compatible aperture list
-
-
-Caution: Smallest track is thiner than 0.150mm: (0.130at 76.882 | 56.082)
+6In_Spl
