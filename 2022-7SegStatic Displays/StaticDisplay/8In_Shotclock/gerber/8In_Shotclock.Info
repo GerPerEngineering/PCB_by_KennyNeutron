@@ -1,0 +1,31 @@
+CAM output for current project 8In_Shotclock.T3001
+Output on 24. Nov 2022, 14:10h
+Current project created using TARGET 13.4.0.51 smart
+Output created using PCBout V13.4.0.51
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 270.49 mm x 232.398 mm
+
+Description of created files as follows:
+
+8In_Shotclock.Top = 29 = Copper top L2   ( *.Top )
+8In_Shotclock.Bot = 2 = Copper bottom L1   ( *.Bot )
+8In_Shotclock.Tool = drill tool list
+8In_Shotclock.Drill = Galvanised drills
+8In_Shotclock.Outline = 23 = PCB outline   ( *.Outline )
+8In_Shotclock.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+8In_Shotclock.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+8In_Shotclock.PosiTop = 21 = Placement print top   ( *.PosiTop )
+8In_Shotclock.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+8In_Shotclock.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+8In_Shotclock.Apr = TARGET 3001! aperture list
+8In_Shotclock.Whl = Eagle compatible aperture list
+
+
+Caution: Wrong font type at (250.825 | -196.215)
